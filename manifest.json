@@ -151,7 +151,7 @@
       "Repository": "https://R-Forge.R-project.org",
       "description": {
         "Package": "Matrix",
-        "Version": "1.7-2",
+        "Version": "1.7-3",
         "VersionNote": "do also bump src/version.h, inst/include/Matrix/version.h",
         "Date": "2024-11-07",
         "Priority": "recommended",
