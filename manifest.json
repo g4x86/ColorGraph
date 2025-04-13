@@ -123,7 +123,7 @@
       "description": {
         "Package": "MASS",
         "Priority": "recommended",
-        "Version": "7.3-65",
+        "Version": "7.3-64",
         "Date": "2025-02-19",
         "Revision": "$Rev: 3681 $",
         "Depends": "R (>= 4.4.0), grDevices, graphics, stats, utils",
@@ -151,7 +151,7 @@
       "Repository": "https://R-Forge.R-project.org",
       "description": {
         "Package": "Matrix",
-        "Version": "1.8-0",
+        "Version": "1.7-2",
         "VersionNote": "do also bump src/version.h, inst/include/Matrix/version.h",
         "Date": "2024-11-07",
         "Priority": "recommended",
@@ -1419,7 +1419,7 @@
       "Repository": "https://cran.r-project.org",
       "description": {
         "Package": "lattice",
-        "Version": "0.22-7",
+        "Version": "0.22-6",
         "Date": "2025-03-31",
         "Priority": "recommended",
         "Title": "Trellis Graphics for R",
@@ -1728,7 +1728,7 @@
       "Repository": "https://cran.r-project.org",
       "description": {
         "Package": "nlme",
-        "Version": "3.1-168",
+        "Version": "3.1-167",
         "Date": "2025-03-31",
         "Priority": "recommended",
         "Title": "Linear and Nonlinear Mixed Effects Models",
